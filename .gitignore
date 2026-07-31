@@ -1,7 +1,21 @@
+
 .env
 __pycache__/
 *.pyc
 venv/
 .venv/
-*.sqlite3
 .ipynb_checkpoints/
+
+# Bases locales
+*.sqlite3
+*.db
+
+# Données brutes et locales
+data/raw/
+data/*.db
+data/processed/battles.csv
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+.vscode/

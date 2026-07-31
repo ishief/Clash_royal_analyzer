@@ -1,0 +1,5 @@
+bilan fin session 1 Projet Royal_api 
+
+- Premier appel API réalisé.
+- Réponse API reçue.
+- Bug restant: 404 notFound sur le tag joueur.
